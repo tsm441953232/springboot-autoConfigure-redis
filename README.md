@@ -1,0 +1,1 @@
+# springboot-autoConfigure-redis
